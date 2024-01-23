@@ -1,4 +1,4 @@
-![image](https://github.com/FatimaMarq14/4443-MobileApps/assets/123118716/a16c7f09-6d7b-42d2-b2e6-2242982bc761)## Fatima Marquez
+## Fatima Marquez
 #### Repo: 4443-MobileApps
 #### Email: fatimamarquez0914@gmail.com
 #### Image:
