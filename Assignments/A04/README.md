@@ -2,5 +2,5 @@
 
 | Folder Link |      Code Description  |
 | ----------- | ---------------------- |
-| [API](Apicode/) | Api Code               |
-| [Mongo](Mongocode/) | Mongo Code             |
+| [API](ApiCode/) | Api Code               |
+| [Mongo](MongoCode/) | Mongo Code             |
