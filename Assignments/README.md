@@ -2,4 +2,4 @@
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
-|   4   | [A04](Assignments/A04/)      | Mongo DB + FastApi     |
+|   4   | [A04](A04/)      | Mongo DB + FastApi     |
